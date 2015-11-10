@@ -1,5 +1,9 @@
 ### Bio
 
-*My name is Rich Casesa*
-* I'm from Long Island
-* I love sushi
+**Name:** Rich Casesa
+
+**From:** Long Island
+
+**Favorite food:** Sushi
+
+**Favorite color:** Blue
